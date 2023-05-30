@@ -67,3 +67,7 @@ WHERE user.username = ?
 [parameters: (<wtforms.fields.simple.StringField object at 0x108f1f6d0>, 1, 0)]
 (Background on this error at: https://sqlalche.me/e/20/rvf5)
 2023-05-29 12:59:53,948 INFO: Microblog startup [in /Users/craigolson/Documents/Development/microblog/app/__init__.py:43]
+2023-05-30 08:40:25,160 INFO: Microblog startup [in /Users/craigolson/Documents/Development/microblog/app/__init__.py:43]
+2023-05-30 08:40:32,410 INFO: Microblog startup [in /Users/craigolson/Documents/Development/microblog/app/__init__.py:43]
+2023-05-30 09:01:12,040 INFO: Microblog startup [in /Users/craigolson/Documents/Development/microblog/app/__init__.py:43]
+2023-05-30 09:02:37,442 INFO: Microblog startup [in /Users/craigolson/Documents/Development/microblog/app/__init__.py:43]
