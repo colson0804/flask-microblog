@@ -74,3 +74,5 @@ WHERE user.username = ?
 2023-05-30 09:17:03,386 INFO: Microblog startup [in /Users/craigolson/Documents/Development/microblog/app/__init__.py:43]
 2023-05-30 09:17:07,112 INFO: Microblog startup [in /Users/craigolson/Documents/Development/microblog/app/__init__.py:43]
 2023-05-30 09:17:24,988 INFO: Microblog startup [in /Users/craigolson/Documents/Development/microblog/app/__init__.py:43]
+2023-05-30 09:39:22,999 INFO: Microblog startup [in /Users/craigolson/Documents/Development/microblog/app/__init__.py:43]
+2023-05-30 09:42:35,991 INFO: Microblog startup [in /Users/craigolson/Documents/Development/microblog/app/__init__.py:43]
